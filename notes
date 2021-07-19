@@ -47,3 +47,19 @@ Variables:
 Rules of Variables:
 
 -> 
+
+What is object?
+real time world existing thing.
+there are three characterstics
+1. identity - differentiate one object to another object
+2. propetites  - hold the data (acno, acname, pinnum)
+3. functionalities - doing some operation on properties (withdrawl() deposit() balance enqury())
+
+How many ways to can we create object in java?
+1. new keyword
+2. clone()
+3. deserialization
+4. factory methods
+5. literals(Auto Boxing)
+
+1. New keyword: 
